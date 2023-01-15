@@ -1,11 +1,29 @@
 [
   { 
    "id" : 1,
-    "nome" : "Carro_da_Andrea",
+    "nome" : "BMW",
     "preco" : "R$ 400.000,00",
     "bateria" : "900 kwh",
     "potencia" : "200cv",
     "recarga" : "10 min",
+    "urlPhoto" : "www.google.com.br"
+  },
+   { 
+   "id" : 2,
+    "nome" : "Mercedes",
+    "preco" : "R$ 500.000,00",
+    "bateria" : "900 kwh",
+    "potencia" : "300cv",
+    "recarga" : "80 min",
+    "urlPhoto" : "www.google.com.br"
+  },
+  { 
+   "id" : 3,
+    "nome" : "Honda",
+    "preco" : "R$ 100.000,00",
+    "bateria" : "500 kwh",
+    "potencia" : "100cv",
+    "recarga" : "80 min",
     "urlPhoto" : "www.google.com.br"
   }
 ]
