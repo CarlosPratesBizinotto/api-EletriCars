@@ -25,5 +25,14 @@
     "potencia" : "100cv",
     "recarga" : "80 min",
     "urlPhoto" : "www.google.com.br"
+  },
+  { 
+   "id" : 4,
+    "nome" : "Model 3",
+    "preco" : "R$ 110.000,00",
+    "bateria" : "500 kwh",
+    "potencia" : "100cv",
+    "recarga" : "80 min",
+    "urlPhoto" : "https://img2.gratispng.com/20180712/xau/kisspng-luxury-vehicle-subaru-car-range-rover-land-rover-tesla-model-3-5b47dfd18042f9.3841780615314370095254.jpg"
   }
 ]
