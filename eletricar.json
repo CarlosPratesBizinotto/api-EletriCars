@@ -1,1 +1,12 @@
+[
+  { 
+   "id": 1,
+    "nome" : "Carro_da_Andrea",
+    "preco" : "R$ 400.000,00",
+    "bateria" : "900 kwh",
+    "potencia" : "200cv",
+    "recarga" : "10 min",
+    "urlPhoto" : "www.google.com.br"
+  }
 
+]
